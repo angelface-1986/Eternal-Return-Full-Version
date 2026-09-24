@@ -244,4 +244,4 @@ This repository serves as the official landing page for Eternal Return. The soft
 **Get the most recent version of Eternal Return today!**
 
 ---
-**Last updated:** 2026-09-23 23:30:18 UTC
+**Last updated:** 2026-09-24 04:08:41 UTC
